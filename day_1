@@ -1,0 +1,9 @@
+#Membuat Varibel
+nama   ="Aco Deswan Yasri"
+ttl    ="Majene,30 Desember 2003"
+alamat ="Tallu Banua Sendana"
+
+#Mencetak Variabel yang dibuat
+print("Nama     : ",nama)
+print("TTL      : ",ttl)
+print("Alamat   : ",alamat)
