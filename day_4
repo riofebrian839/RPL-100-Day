@@ -1,0 +1,7 @@
+nama = input("Masukkan Nama Anda : ")
+sandi =input("Masukkan Sandi Anda : ")
+
+if nama =="aco" or sandi=="4567":
+    print("Berhasil")
+else:
+    print("Coba Lagi")
