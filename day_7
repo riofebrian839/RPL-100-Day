@@ -1,0 +1,5 @@
+alas = float(input("Masukkan Alas segitiga :"))
+tinggi = float(input("Masukkan Tinggi segitiga :"))
+
+hitung =(alas * tinggi)/2
+print("Luas dari segitiga adalah :",hitung)
