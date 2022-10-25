@@ -1,0 +1,18 @@
+def suaraayam():
+    print("tottokek")
+
+def hargaayam():
+    suaraayam()
+    print("harga ayam per 1 kg adalah 50.000")
+
+def hargatotalayam(kg):
+    suaraayam()
+    harga = 50000
+    hargaTotal = kg*harga
+    print("harga",kg,"ayam adalah",hargaTotal)
+
+hargaayam()
+hargatotalayam(1)
+hargatotalayam(2)
+hargatotalayam(6)
+hargatotalayam(1.5)
