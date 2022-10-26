@@ -1,0 +1,7 @@
+panjang = int(input("Panjang Tanah :"))
+lebar = int(input("Lebar Tanah :"))
+luas = 2*(panjang * lebar)
+harga = luas * 300.000
+
+print("luas Lokasi persegi :",luas)
+print("Harga :",harga)
