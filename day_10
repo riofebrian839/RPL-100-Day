@@ -1,0 +1,13 @@
+#Variabel
+gelas_a = "kopi"
+gelas_b = "teh"
+
+# proses pertukaran
+gelas_c = gelas_a
+gelas_a = gelas_b
+gelas_b = gelas_c
+
+print("gelas_a =",gelas_a)
+print("gelas_b =",gelas_b)
+
+
