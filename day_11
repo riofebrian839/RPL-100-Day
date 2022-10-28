@@ -1,0 +1,9 @@
+panjang =int(input("Panjang Tanah : "))
+lebar =int(input("Lebar Tanah : "))
+luas = panjang * lebar
+
+print("Luas Tanah :",luas)
+if(luas > 200):
+    print("Tanah sangat luas...")
+else:
+    print("Tanah cukup luas")
