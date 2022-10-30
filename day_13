@@ -1,0 +1,4 @@
+#Perulangan For
+for i in "Belajar Ngoding":
+    print("",i)
+    
