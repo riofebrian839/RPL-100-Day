@@ -1,0 +1,11 @@
+nama = input("Masukkan Nama anda : ")
+tahun =int(input("Masukkan Tahun Lahir anda : "))
+
+if tahun >=1965 and tahun <=1979:
+    print(nama,",Berdasarkan Tahun lahir anda tergolong Generasi X")
+elif tahun >=1980 and tahun <=1994:
+    print(nama,",Berdasarkan Tahun lahir anda tergolong Generasi Y")
+elif tahun >=1995:
+    print(nama,",Berdasarkan Tahun lahir anda tergolong Generasi Z")
+
+    
