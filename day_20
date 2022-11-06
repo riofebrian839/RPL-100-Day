@@ -1,0 +1,10 @@
+nama ="INFORMATIKA"
+x = 0
+
+for i in nama:
+    x = x + 1
+    print(nama[0:x])
+
+for i in nama:
+    x = x - 1
+    print(nama[0:x])
