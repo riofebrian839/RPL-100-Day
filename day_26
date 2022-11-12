@@ -1,0 +1,19 @@
+nama ="Aco Deswan Yasri"
+gaji_pokok = 1000000
+Lama_lembur = 13
+Gajilembur = 5000
+Jumlah_lembur = Gajilembur * Lama_lembur 
+Gaji_kotor = gaji_pokok + Jumlah_lembur
+pajak = 10/100
+potongan = round(pajak * gaji_pokok)
+Gaji_bersih = round(Gaji_kotor-potongan)
+
+print("Nama         :",nama)
+print("Gaji Pokok   :Rp.",gaji_pokok)
+print("Gaji Lembur  :Rp.",Jumlah_lembur)
+print("Gaji Kotor   :Rp.",Gaji_kotor)
+print("Pajak        :Rp.",pajak)
+print("Potongan     :Rp.",potongan)
+print("Gaji Bersih  :Rp.",Gaji_bersih)
+
+
