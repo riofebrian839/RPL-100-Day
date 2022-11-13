@@ -1,0 +1,10 @@
+i = 101
+hasil = 0
+while i > 1:
+    i = i - 1
+    print(i)
+    if i % 3 != 0 :
+        hasil= hasil + i
+print("==============")
+print("Hasil Penjumlahan Angka di Atas : ",hasil)
+
