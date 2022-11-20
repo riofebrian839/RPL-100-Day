@@ -1,0 +1,5 @@
+#Decimal to Binary
+a = 87
+print(bin(int(a)))
+#Output
+#0b10010
