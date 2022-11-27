@@ -1,0 +1,8 @@
+#Dictionary
+
+d ={"one":"satu", "two":"dua", "three":"tiga"}
+d1= d.keys()
+print(d1)
+
+for k in d.keys():
+    print(k)
