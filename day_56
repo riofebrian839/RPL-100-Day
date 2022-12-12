@@ -1,0 +1,3 @@
+xs =[1,1,-2]
+s = sum(xs)
+print(s)
