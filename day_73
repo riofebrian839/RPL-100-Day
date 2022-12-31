@@ -1,0 +1,4 @@
+a = "7"
+a = a + "0"
+e = int(a) + 3
+print(float(e))
