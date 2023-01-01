@@ -9,4 +9,4 @@ def factorial(n):
             result *=n
             n-=1
     return print(result)
-
+factorial (4)
